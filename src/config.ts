@@ -10,4 +10,5 @@ export let PROXYS: Proxy[] = [
         url: "https://www.google.com/",
         enable: true,
         template: Google
-    }];
+    }
+];
