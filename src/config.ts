@@ -8,7 +8,6 @@ export let PROXYS: Proxy[] = [
   {
         domain: "google.00fa.me",
         url: "https://www.google.com/",
-        enable: true,
-        template: Google
+        enable: true
     }
 ];
